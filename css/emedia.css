@@ -1,16 +1,54 @@
 .corp-name
 {
+    display: block;
     font-family: "Iowan Old Style";
     text-transform: lowercase;
 }
 
+.intro-body
+{
+    background-color: rgba(0,0,0,0.7);
+}
+
+#about
+{
+
+}
+
+
+.about-emedia
+{
+    background: url(../img/emedia/fotolia_78312760.jpg) no-repeat bottom center scroll;
+    background-color: rgba(0,0,0,0.7);
+    -webkit-background-size: cover;
+    -moz-background-size: cover;
+    background-size: cover;
+    -o-background-size: cover;
+}
+
+
+.title
+{
+    font-size: 28px;
+}
+
+
 .corp-name:first-letter
 {
-    font-color: #FF33CC;
+    color: #FF33CC;
 }
 
 .client-sncf
 {
     max-width: 25%;
     height: auto;
+}
+
+body
+{
+    font-family: "Iowan Old Style";
+}
+
+.navbar-custom {
+    font-family: "Iowan Old Style";
 }
