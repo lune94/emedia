@@ -1,0 +1,10 @@
+.corp-name
+{
+    font-family: "Iowan Old Style";
+    text-transform: lowercase;
+}
+
+.corp-name:first-letter
+{
+    font-color: #FF33CC;
+}
