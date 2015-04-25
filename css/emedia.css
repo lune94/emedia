@@ -10,16 +10,11 @@
     background-color: rgba(0,0,0,0.7);
 }
 
-#about
-{
-
-}
-
 
 .about-emedia
 {
     background: url(../img/emedia/fotolia_78312760.jpg) no-repeat bottom center scroll;
-    background-color: rgba(0,0,0,0.7);
+    opacity: 0.7;
     -webkit-background-size: cover;
     -moz-background-size: cover;
     background-size: cover;
