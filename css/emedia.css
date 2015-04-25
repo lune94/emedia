@@ -5,20 +5,17 @@
     text-transform: lowercase;
 }
 
-.intro-body
+.bg-opacifier
 {
     background-color: rgba(0,0,0,0.7);
 }
 
-
-.about-emedia
-{
-    background: url(../img/emedia/fotolia_78312760.jpg) no-repeat bottom center scroll;
-    opacity: 0.7;
-    -webkit-background-size: cover;
-    -moz-background-size: cover;
-    background-size: cover;
-    -o-background-size: cover;
+.about-bg {
+	background: url(../img/emedia/fotolia_78312760.jpg) no-repeat bottom center scroll;
+	-webkit-background-size: cover;
+	-moz-background-size: cover;
+	background-size: cover;
+	-o-background-size: cover;
 }
 
 
